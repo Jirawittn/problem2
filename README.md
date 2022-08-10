@@ -1,2 +1,2 @@
 My Personal web site is at https://jirawittn.github.io/ and its index.html is at https://github.com/Jirawittn/jirawittn.github.io , 
-My Profile web site is at https://jirawittn.github.io/profile/ and index.html is at https://github.com/Jirawittn/profile
+My problem2 web site is at https://jirawittn.github.io/problem2/ and index.html is at https://github.com/Jirawittn/problem2
